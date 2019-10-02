@@ -21,3 +21,8 @@ body {
 .navbar {
     background-color: aquamarine;
 }
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
